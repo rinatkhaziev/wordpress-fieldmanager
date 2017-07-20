@@ -1,5 +1,6 @@
 {
   "name": "alleyinteractive/wordpress-fieldmanager",
+  "type": "wordpress-plugin",
   "authors": [
     {
       "name": "Alley Interactive",
